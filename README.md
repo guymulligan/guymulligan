@@ -8,7 +8,7 @@ I'm a developer with a passion for learning, learning and more learning. When I'
 
 * 🌍  I'm based in London, UK.
 * ✉️  You can contact me at [guymulligandev@gmail.com](mailto:guymulligandev@gmail.com)
-* 🚀  I'm currently working on [Push-up to Bench Press Calculator](http://pushuptobenchpress.netlify.app/) and [Spy the Specimen!]((https://spythespecimen.netlify.app/))
+* 🚀  I'm currently working on [Push-up to Bench Press Calculator](http://pushuptobenchpress.netlify.app/) and [Spy the Specimen!](https://spythespecimen.netlify.app/))
 * 🤝  I'm open to collaborating on anything involving health, fitness and making the world a better place
 * ⚡  I make a mean banoffee pie
 
